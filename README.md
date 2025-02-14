@@ -6,7 +6,7 @@
 </a>
 </h1>
 
-<h3 align='center'>Fresh graduate of Information Systems with interests in UI/UX Design, Web Development, and some Machine Learning ✨</h3>
+<h3 align='center'>Fresh graduate of Information Systems with interests in UI/UX Design, Web Development, and Machine Learning such as Artificial Intelligence ✨</h3>
 
 <br/>
 
