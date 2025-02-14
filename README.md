@@ -6,7 +6,7 @@
 </a>
 </h1>
 
-<h4 align='center'>Fresh graduate of Information Systems with interests in UI/UX Design, Web Development, and some Machine Learning ✨</h4>
+<h3 align='center'>Fresh graduate of Information Systems with interests in UI/UX Design, Web Development, and some Machine Learning ✨</h3>
 
 <br/>
 
@@ -34,14 +34,14 @@
 </h1>
 
 <div align="center">
-  <h4>Tech Tools 💻</h4>
+  <h3>Tech Tools 💻</h3>
   <a href="https://skillicons.dev/">
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" />
     <img src="https://skillicons.dev/icons?i=vue,php,laravel,mysql,postgres" />
     <img src="https://skillicons.dev/icons?i=python,tensorflow,java,mongodb,express" />
   </a>
   <br/>
-  <h4>Editing Tools 📸</h4>
+  <h3>Editing Tools 📸</h3>
   <a href="https://skillicons.dev/">
     <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae" />
   </a>
