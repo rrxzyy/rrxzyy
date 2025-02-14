@@ -1,4 +1,4 @@
-<img align='right' src="https://visitor-badge.laobi.icu/badge?page_id=rrxzyy.visitor-badge&format=true"/>
+<img align='right' src="https://visitor-badge.laobi.icu/badge?page_id=rrxzyy.rrxzyy"/>
 
 <h1 align='center'>
 <a href="https://git.io/typing-svg">
@@ -25,17 +25,20 @@
   </a>
 </div>
 
-<br/>
+<br/><br/>
 
 <h1 align='center'>
-framework that I used and learnt.
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=framework that I used and learnt." alt="Typing SVG" />
+</a>
 </h1>
 
-<br/>
-<div>
+<div align="center">
   <h4>Tech Tools 💻</h4>
   <a href="https://skillicons.dev/">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vue,php,laravel,mysql,postgres,python,tensorflow,java,mongodb,express" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" />
+    <img src="https://skillicons.dev/icons?i=vue,php,laravel,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,java,mongodb,express" />
   </a>
   <br/>
   <h4>Editing Tools 📸</h4>
