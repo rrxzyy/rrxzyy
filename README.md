@@ -27,12 +27,6 @@
 
 <br/><br/>
 
-<h1 align='center'>
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=framework that I used and learnt." alt="Typing SVG" />
-</a>
-</h1>
-
 <div align="center">
   <h3>Tech Tools 💻</h3>
   <a href="https://skillicons.dev/">
