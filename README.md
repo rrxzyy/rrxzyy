@@ -6,7 +6,7 @@
 </a>
 </h1>
 
-<h3 align='center'>Fresh graduate of Information Systems with interests in UI/UX Design, Web Development, and Machine Learning such as Artificial Intelligence ✨</h3>
+<h3 align='center'>Information Systems graduate from Universitas Islam Negeri Sunan Ampel Surabaya with a strong foundation in UI/UX Design, Web Development, Data Science, and Artificial Intelligence. Eager to apply academic knowledge in real-world settings, contribute to innovative technology-driven projects, and continuously develop professional skills in a dynamic and collaborative environment.✨</h3>
 
 <br/>
 
@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/faqihbahreisy">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:reikun1207@gmail.com">
+  <a href="mailto:faqihbahreisy.work@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://faqihbahreisy.vercel.app">
