@@ -6,7 +6,7 @@
 </a>
 </h1>
 
-<h3 align='center'>Information Systems graduate from Universitas Islam Negeri Sunan Ampel Surabaya with a strong foundation in UI/UX Design, Web Development, Data Science, and Artificial Intelligence. Eager to apply academic knowledge in real-world settings, contribute to innovative technology-driven projects, and continuously develop professional skills in a dynamic and collaborative environment.✨</h3>
+<h4 align='center'>Information Systems graduate with a strong foundation in UI/UX Design, Web Development, Data Science, and Artificial Intelligence ✨</h4>
 
 <br/>
 
