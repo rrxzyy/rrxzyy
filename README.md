@@ -6,7 +6,7 @@
 </a>
 </h1>
 
-<h4 align='center'>Information Systems graduate with a strong foundation in UI/UX Design, Web Development, Data Science, and Artificial Intelligence ✨</h4>
+<h4 align='center'>Information Systems graduate with a strong foundation in UI/UX Design, Web Development, and Machine Learning</h4>
 
 <br/>
 
