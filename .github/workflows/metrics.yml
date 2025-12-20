@@ -28,6 +28,7 @@ jobs:
           user: rrxzyy
           template: classic
           base: header, activity, community, repositories, metadata
+          config_display: large
           config_octicon: yes
           config_padding: 0, 8 + 6%
           config_timezone: Asia/Jakarta
