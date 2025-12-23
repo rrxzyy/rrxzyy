@@ -23,6 +23,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_display: large
+          config_output: svg
           config_padding: 0,8 + 11%
           config_timezone: Asia/Jakarta
           plugin_introduction: yes
